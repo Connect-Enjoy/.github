@@ -1,7 +1,8 @@
-# 👋 Welcome to connect&enjoy
+![GitHub Organization Banner](https://github.com/user-attachments/assets/bbe1d589-369f-40fd-90ac-f0d6001a4cd3)
 
-Hey there! We're **connect&enjoy** — a space where ideas come to life, projects grow wild, and collaboration happens naturally.
+🌱 A space where ideas come to life, projects grow wild, and collaboration happens naturally.
 
+---
 We’re not defined by one purpose or limited to a specific kind of project. Whether it’s a cool web app, a quirky ML experiment, a smart dev tool, or just something random we cooked up at 3 AM during a hackathon — it all belongs here.
 
 ## 🌟 What We're About
